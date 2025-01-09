@@ -10,9 +10,9 @@
 
 # <img src="wave.gif" alt="👋" width="28" height="28"> Welcome to my profile !
 
-I'm **Dada Yacine**, a 24-year-old passionate computer science student with a strong focus on **Front-End Web Development** and **UI/UX Design**.  
-I bring creativity and precision to the projects I work on, excelling in crafting engaging front-end experiences and user-friendly interfaces.  
-I'm also skilled in 3D artistry, which I incorporate into unique designs when needed.
+I’m **Dada Yacine**, a highly motivated and detail-oriented computer science student with a strong specialization in **Front-End Web Development** and **UI/UX Design**. My passion lies in creating seamless, user-centric digital experiences by blending design aesthetics with technical precision. I am proficient in leveraging modern frameworks and tools to build responsive, dynamic interfaces that engage users effectively.
+
+Additionally, I possess a strong background in **3D artistry**, which I utilize to create immersive and visually compelling designs when required. With a keen eye for innovation and a commitment to excellence, I strive to deliver high-quality solutions that meet both functional and aesthetic needs.
 
 &nbsp;&nbsp;
 
