@@ -1,6 +1,22 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark">
+  <img alt="Shows Anuraghazra's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=default">
+</picture>
+
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Signature_Black.png">
+    <img src="Signature_White.png" style="width: 60%;">
+  </picture>
+</p>
+
+
+
+
 <br>
 <p align="center">
-  <img src="Signature.png" style="width: 60%;"/>
+  <img src="Signature_Black.png" style="width: 60%;"/>
 </p>
 <br><br>
 
