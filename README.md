@@ -25,11 +25,11 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=y-dada-dev&layout=compact&langs_count=12&hide=PLpgSQL,Tex,Hack,Shell,jupyter%20notebook,Less&hide_border=true&theme=dark&bg_color=00000000&ring_color=2dba4e"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=y-dada-dev&layout=compact&langs_count=12&hide=PLpgSQL,Tex,Hack,Shell,jupyter%20notebook,Less&hide_border=true&theme=dark&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=y-dada-dev&layout=compact&langs_count=12&hide=PLpgSQL,Tex,Hack,Shell,jupyter%20notebook,Less&hide_border=true&theme=vue&bg_color=00000000&ring_color=2dba4e"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=y-dada-dev&layout=compact&langs_count=12&hide=PLpgSQL,Tex,Hack,Shell,jupyter%20notebook,Less&hide_border=true&theme=vue&bg_color=00000000"
     media="(prefers-color-scheme: light)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-dada-dev&layout=compact&langs_count=12&hide=PLpgSQL,Tex,Hack,Shell,jupyter%20notebook,Less&hide_border=true" />
