@@ -48,6 +48,7 @@ I'm also skilled in 3D artistry, which I incorporate into unique designs when ne
     </div>
   </td>
   <td valign="top" width="33%">
+    
   </td>
 </tr>
 </table>  
