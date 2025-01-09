@@ -8,26 +8,19 @@
 </p>
 <br><br>
 
-
-
-
 # <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> Welcome to my profile !
 
 I'm **Dada Yacine**, a 24-year-old passionate computer science student with a strong focus on **Front-End Web Development** and **UI/UX Design**.  
 I bring creativity and precision to the projects I work on, excelling in crafting engaging front-end experiences and user-friendly interfaces.  
 I'm also skilled in 3D artistry, which I incorporate into unique designs when needed.
 
-
-
-
+&nbsp;&nbsp;
 
 # <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> My Tech-Stack & Skills
 
-## Languages   
-## Frameworks & Libraries  
-## Tools  
+Test
 
-
+&nbsp;&nbsp;
 
 # <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> Featured Projects
 
@@ -38,8 +31,7 @@ I'm also skilled in 3D artistry, which I incorporate into unique designs when ne
 - [Beans Model Trainning](https://github.com/y-dada-dev/ESI-SBA-CSIII-Machine-Learning-and-Data-Mining-Mini-Project): A crypto trading bot framework
 - [Data Analysis](https://github.com/y-dada-dev/ESI-SBA-CSII-Data-Analysis-TP01): A crypto trading bot framework
   
-
-
+&nbsp;&nbsp;
 
 # <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> ESISBA Drive 📂  
 
@@ -52,7 +44,7 @@ Dada Yacine · Amir Moncef Tighlit ·
 [![Image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.dada@esi-sba.dz)
 [![Image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.dada@esi-sba.dz)
 
-
+&nbsp;&nbsp;
 
 # <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> Stats & Statistics
 
@@ -67,7 +59,6 @@ Dada Yacine · Amir Moncef Tighlit ·
   </tr>
 </table>
 
-
 <p align="center">
   <picture>
     <source srcset="github-user-contribution-white.svg" media="(prefers-color-scheme: light)">
@@ -75,7 +66,6 @@ Dada Yacine · Amir Moncef Tighlit ·
     <img src="github-user-contribution-black.svg" >
   </picture>
 </p>
-
 
 #
 
