@@ -24,15 +24,11 @@ I'm also skilled in 3D artistry, which I incorporate into unique designs when ne
 ![image](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-
-
 **Frameworks & Libraries :**  
 
 ![image](https://img.shields.io/badge/Pascal-0000FF?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-
 
  **Tools :**   
 
@@ -57,12 +53,14 @@ I'm also skilled in 3D artistry, which I incorporate into unique designs when ne
 
 The ESISBA Drive is a collaborative initiative where students contribute valuable resources for learning and growth.  
 
-- **Contributors**  
+- **Contributors**
+
 Dada Yacine · Amir Moncef Tighlit ·
 
-- **Links**   
-[![Image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.dada@esi-sba.dz)
-[![Image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.dada@esi-sba.dz)
+- **Links**
+
+[![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/y-dada-dev?tab=repositories&q=esi-sba&type=&language=&sort=name)
+[![Image](https://img.shields.io/badge/Google%20Drive-03C75A?style=for-the-badge&logo=logoColor=FFFFFF)](https://web.facebook.com/y.dada.me/)
 
 &nbsp;&nbsp;
 
