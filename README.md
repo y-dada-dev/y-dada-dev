@@ -48,12 +48,13 @@ The ESISBA Drive is a collaborative initiative where students contribute valuabl
 - **Contributors**
 Dada Yacine · Amir Moncef Tighlit ·
 
-- **Links**
+- **Links**  
 [![Image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.dada@esi-sba.dz)
 [![Image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.dada@esi-sba.dz)
 
 
 
+# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> Stats & Statistics
 
 <table style="width: 100%; text-align: center;">
   <tr>
