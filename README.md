@@ -18,7 +18,26 @@ I'm also skilled in 3D artistry, which I incorporate into unique designs when ne
 
 # <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="28" height="28"></picture> My Tech-Stack & Skills
 
-Test
+<table><tr><td valign="top" width="33%">
+
+**Languages  ** 
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+</div>
+</td><td valign="top" width="33%">
+
+**Frameworks & Libraries**
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+</div>
+</td><td valign="top" width="33%">
+
+
+**Tools** 
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+</div>
+</td><td valign="top" width="33%">
 
 &nbsp;&nbsp;
 
