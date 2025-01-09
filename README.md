@@ -9,11 +9,25 @@
 <br><br>
 
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+
+
+
+
 <table style="width: 100%; text-align: center;">
   <tr>
     <td style="vertical-align: top;" >
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=y-dada-dev&rank_icon=github&show=discussions_started,discussions_answered&show_icons=true&include_all_commits=true&hide=contribs&theme=dark&bg_color=00000000&hide_border=true&ring_color=2dba4e">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=y-dada-dev&rank_icon=github&show=discussions_started,discussions_answered&show_icons=true&include_all_commits=true&hide=contribs&theme=vue&bg_color=00000000&hide_border=true&ring_color=2dba4e">
       <img src="https://github-readme-stats.vercel.app/api?username=y-dada-dev&rank_icon=github&show=discussions_started,discussions_answered&show_icons=true&include_all_commits=true&hide=contribs&theme=dark&bg_color=00000000&hide_border=true&ring_color=2dba4e"/>
     </td>
     <td style="vertical-align: top;">
