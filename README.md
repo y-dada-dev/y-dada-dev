@@ -3,7 +3,7 @@
   <picture>
     <source srcset="Signature_Black.png" media="(prefers-color-scheme: light)" style="width: 60%;">
     <source srcset="Signature_White.png" media="(prefers-color-scheme: dark)" style="width: 60%;">
-    <img src="Signature_White.png" style="width: 60%;">
+    <img src="Signature_Black.png" style="width: 60%;">
   </picture>
 </p>
 <br><br>
