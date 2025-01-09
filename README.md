@@ -16,7 +16,7 @@
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=y-dada-dev&show_icons=true&theme=vue"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=y-dada-dev&show_icons=true" />
 </picture>
