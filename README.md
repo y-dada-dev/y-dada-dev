@@ -16,28 +16,6 @@ Additionally, I possess a strong background in **3D artistry**, which I utilize 
 
 &nbsp;&nbsp;
 
-# <img src="cap.gif" alt="🎓" width="28" height="28"> My Tech-Stack & Skills
-
-**Languages :**  
-
-![image](https://img.shields.io/badge/Pascal-0000FF?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![image](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-**Frameworks & Libraries :**  
-
-![image](https://img.shields.io/badge/Pascal-0000FF?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![image](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
- **Tools :**   
-
-![image](https://img.shields.io/badge/Pascal-0000FF?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![image](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-&nbsp;&nbsp;
-
 # <img src="bulp.gif" alt="💡" width="28" height="28"> Featured Projects
 
 - [Simply Green](https://github.com/y-dada-dev/ESI-SBA-CPI-Office-And-Web-Mini-Project): Simply Green is my first-ever website project, aimed at raising awareness about environmental protection, wildlife conservation, and sustainable practices. The platform provides information, resources, and ways for individuals to get involved in preserving nature and protecting animal habitats.
