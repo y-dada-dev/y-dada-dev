@@ -41,12 +41,11 @@ This collection is constantly updated and provides valuable insights for student
 
 &nbsp;
 
-$${\color{green}\mathbf{Amir \ Moncef \ Tighlit}} \space {\color{lightgreen}Hani \ Mohammed \ Mahmmoudi} \space {\color{green}\mathbf{Baha \ Daw \ Hocine}} \space {\color{lightgreen}Mouslim \ Saidi} \space {\color{green}\mathbf{Anes \ Mobarki}} \space {\color{lightgreen}Sehili \ Chaima}$$
-
-$${\color{green}\mathbf{Abderraouf \ Bouakaz}} \space {\color{lightgreen}Lallouche \ Lokmane} \space {\color{green}\mathbf{Moncef \ Ananni}} \space {\color{lightgreen}Illyes \ Alili} \space {\color{green}\mathbf{Mechri \ Abdelchakour}} \space {\color{lightgreen}CHEBAB \ MOKHTARIA}$$
-
-$${\color{green}\mathbf{Ilyas \ Benhammadi}} \space {\color{lightgreen}Amir \ Kadi} \space {\color{green}\mathbf{Nassime \ Rayan \ Zorgani}} \space {\color{lightgreen}Moundir \ Abdelrahmen} \space {\color{green}\mathbf{Karim \ Cherab}} \space {\color{lightgreen}Zakariya \ Baba}$$
-
+> [!TIP]
+> Dada Yacine · **Amir Moncef Tighlit** · Hani Mohammed Mahmmoudi · **Baha Daw Hocine** · Mouslim Saidi · **Anes Mobarki** 
+> Sehili Chaima · **Abderraouf Bouakaz** · Lallouche Lokmane · **Moncef Ananni** · Illyes Alili · **Mechri Abdelchakour** 
+> CHEBAB MOKHTARIA · **Ilyas Benhammadi** · Amir Kadi · **Nassime Rayan Zorgani** · Moundir Abdelrahmen · **Karim Cherab** 
+> Zakariya Baba · **Malki Abdelhamid**
 
 &nbsp;
 
