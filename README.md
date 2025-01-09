@@ -51,16 +51,13 @@ I'm also skilled in 3D artistry, which I incorporate into unique designs when ne
 
 # <img src="gem.gif" alt="💎" width="28" height="28"> ESISBA Drive 
 
-The ESISBA Drive is a collaborative initiative where students contribute valuable resources for learning and growth.  
+The [ESISBA Google Drive](https://web.facebook.com/y.dada.me/) is a comprehensive collection of academic resources from multiple years, contributed by students. It includes TPs, TDs, exams, and course materials from a variety of subjects. While the [TPs](https://github.com/y-dada-dev?tab=repositories&q=esi-sba&type=&language=&sort=name) are hosted on GitHub for collaboration, the Google Drive contains a broader range of documents, including past exams and additional course resources.  
 
-[![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/y-dada-dev?tab=repositories&q=esi-sba&type=&language=&sort=name)
-[![Image](https://img.shields.io/badge/Google%20Drive-03C75A?style=for-the-badge&logo=logoColor=FFFFFF)](https://web.facebook.com/y.dada.me/)
+This collection is constantly updated and provides valuable insights for students across different academic years. It’s a collaborative effort from many contributors, making it an essential resource for anyone studying at ESISBA.
 
-&nbsp;
+**Contributors :**
 
-- **Contributors :**
-
-John Doe · Jane Smith · Michael Johnson · Emily Davis · David Brown · Sarah Wilson · James White · Laura Thomas · Robert Lee · Jessica Harris · William Clark · Olivia Lewis · Richard Hall · Sophia Walker · Daniel Allen · Chloe Young · Christopher King · Madison Scott · Matthew Adams · Isabella Mitchell
+John Doe · **Jane Smith** · Michael Johnson · **Emily Davis** · David Brown · **Sarah Wilson** · James White · **Laura Thomas** · Robert Lee · **Jessica Harris** · William Clark · **Olivia Lewis** · Richard Hall · **Sophia Walker** · Daniel Allen · **Chloe Young** · Christopher King · **Madison Scott** · Matthew Adams · **Isabella Mitchell**
 
 &nbsp;&nbsp;
 
