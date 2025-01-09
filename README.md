@@ -41,11 +41,14 @@ This collection is constantly updated and provides valuable insights for student
 
 &nbsp;
 
-$${\color{green}\mathbf{Amir \ Moncef \ Tighlit}} \space {\color{lightgreen}Hani \ Mohammed \ Mahmmoudi} \space {\color{green}\mathbf{Baha \ Daw \ Hocine}} \space {\color{lightgreen}Mouslim \ Saidi} \space {\color{green}\mathbf{Anes \ Mobarki}} \space {\color{lightgreen}Sehili \ Chaima} \space {\color{green}\mathbf{Abderraouf \ Bouakaz}}$$
+$${\color{green}\mathbf{Amir \ Moncef \ Tighlit}} \space {\color{lightgreen}Hani \ Mohammed \ Mahmmoudi} \space {\color{green}\mathbf{Baha \ Daw \ Hocine}} \space {\color{lightgreen}Mouslim \ Saidi} \space {\color{green}\mathbf{Anes \ Mobarki}} \space {\color{lightgreen}Sehili \ Chaima}$$
 
-$${\color{lightgreen}Lallouche \ Lokmane} \space {\color{green}\mathbf{Moncef \ Ananni}} \space {\color{lightgreen}Illyes \ Alili} \space {\color{green}\mathbf{Mechri \ Abdelchakour}} \space {\color{lightgreen}CHEBAB \ MOKHTARIA} \space {\color{green}\mathbf{Ilyas \ Benhammadi}} \space {\color{lightgreen}Amir \ Kadi}$$
+$${\color{green}\mathbf{Abderraouf \ Bouakaz}} \space {\color{lightgreen}Lallouche \ Lokmane} \space {\color{green}\mathbf{Moncef \ Ananni}} \space {\color{lightgreen}Illyes \ Alili} \space {\color{green}\mathbf{Mechri \ Abdelchakour}} \space {\color{lightgreen}CHEBAB \ MOKHTARIA}$$
 
-$${\color{green}\mathbf{Nassime \ Rayan \ Zorgani}} \space {\color{lightgreen}Moundir \ Abdelrahmen} \space {\color{green}\mathbf{Karim \ Cherab}} \space {\color{lightgreen}Zakariya \ Baba} \space {\color{green}\mathbf{Malki \ Abdelhamid}}$$ 
+$${\color{green}\mathbf{Ilyas \ Benhammadi}} \space {\color{lightgreen}Amir \ Kadi} \space {\color{green}\mathbf{Nassime \ Rayan \ Zorgani}} \space {\color{lightgreen}Moundir \ Abdelrahmen} \space {\color{green}\mathbf{Karim \ Cherab}} \space {\color{lightgreen}Zakariya \ Baba}$$
+
+$${\color{green}\mathbf{Malki \ Abdelhamid}}$$
+
 
 &nbsp;
 
