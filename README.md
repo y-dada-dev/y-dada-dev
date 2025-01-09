@@ -53,14 +53,12 @@ I'm also skilled in 3D artistry, which I incorporate into unique designs when ne
 
 The ESISBA Drive is a collaborative initiative where students contribute valuable resources for learning and growth.  
 
-- **Contributors**
-
-Dada Yacine · Amir Moncef Tighlit ·
-
-- **Links**
-
 [![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/y-dada-dev?tab=repositories&q=esi-sba&type=&language=&sort=name)
 [![Image](https://img.shields.io/badge/Google%20Drive-03C75A?style=for-the-badge&logo=logoColor=FFFFFF)](https://web.facebook.com/y.dada.me/)
+
+- **Contributors :**
+
+Dada Yacine · Amir Moncef Tighlit · Dada Yacine · Amir Moncef Tighlit · Dada Yacine · Amir Moncef Tighlit · Dada Yacine · Amir Moncef Tighlit · Dada Yacine · Amir Moncef Tighlit · Dada Yacine · Amir Moncef Tighlit · Dada Yacine · Amir Moncef Tighlit · Dada Yacine · Amir Moncef Tighlit · Dada Yacine · Amir Moncef Tighlit ·
 
 &nbsp;&nbsp;
 
