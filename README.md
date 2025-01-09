@@ -1,13 +1,16 @@
-
 <br>
 <p align="center">
   <picture>
-    <source srcset="Signature_White.png" media="(prefers-color-scheme: dark)">
+    <!-- Light mode image -->
     <source srcset="Signature_Black.png" media="(prefers-color-scheme: light)">
-    <img src="Signature_White.png" style="width: 60%;" alt="Signature">
+    <!-- Dark mode image -->
+    <source srcset="Signature_White.png" media="(prefers-color-scheme: dark)">
+    <!-- Fallback image -->
+    <img src="Signature_Black.png" style="width: 60%;" alt="Signature">
   </picture>
 </p>
 <br><br>
+
 
 <table style="width: 100%; text-align: center;">
   <tr>
