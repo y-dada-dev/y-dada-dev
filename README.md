@@ -16,7 +16,7 @@ I'm also skilled in 3D artistry, which I incorporate into unique designs when ne
 
 &nbsp;&nbsp;
 
-# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="28" height="28"></picture> My Tech-Stack & Skills
+# <img src="cap.gif" alt="🎓" width="28" height="28"> My Tech-Stack & Skills
 
 <table><tr><td valign="top" width="33%">
 
@@ -43,7 +43,7 @@ I'm also skilled in 3D artistry, which I incorporate into unique designs when ne
 
 &nbsp;&nbsp;
 
-# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="28" height="28"></picture> Featured Projects
+# <img src="bulp.gif" alt="💡" width="28" height="28"> Featured Projects
 
 - [El Sabil](https://github.com/y-dada-dev/ESI-SBA-CSII-Multidisciplinary-Project-El-Sabil): A crypto trading bot framework
 - [ESIPATH](https://github.com/y-dada-dev/ESI-SBA-CSI-Multidisciplinary-Project-ESIPATH): A crypto trading bot framework
@@ -54,20 +54,20 @@ I'm also skilled in 3D artistry, which I incorporate into unique designs when ne
   
 &nbsp;&nbsp;
 
-# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="28" height="28"></picture> ESISBA Drive 📂  
+# <img src="gem.gif" alt="💎" width="28" height="28"> ESISBA Drive 📂  
 
 The ESISBA Drive is a collaborative initiative where students contribute valuable resources for learning and growth.  
 
-- **Contributors**
+- **Contributors**  
 Dada Yacine · Amir Moncef Tighlit ·
 
-- **Links**  
+- **Links**   
 [![Image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.dada@esi-sba.dz)
 [![Image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.dada@esi-sba.dz)
 
 &nbsp;&nbsp;
 
-# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="28" height="28"></picture>> Stats & Statistics
+# <img src="gear.gif" alt="⚙" width="28" height="28"> Stats & Statistics
 
 <table style="width: 100%; text-align: center;">
   <tr>
