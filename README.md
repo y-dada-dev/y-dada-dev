@@ -40,6 +40,9 @@ I'm also skilled in 3D artistry, which I incorporate into unique designs when ne
   </picture>
 </p>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=y-dada-dev&&style=flat-square" align="center" />
+</div>  
 
 #
 
