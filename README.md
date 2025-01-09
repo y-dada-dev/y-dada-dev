@@ -1,10 +1,6 @@
 <br>
 <p align="center">
-  <picture style="display: inline-block; width: 60%;">
-    <source srcset="Signature_Black.png" media="(prefers-color-scheme: light)">
-    <source srcset="Signature_White.png" media="(prefers-color-scheme: dark)">
-    <img src="Signature_White.png" style="width: 100%;" alt="Signature">
-  </picture>
+  <img src="Signature_White.png" style="width: 60%;"/>
 </p>
 <br><br>
 
