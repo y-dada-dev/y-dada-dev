@@ -43,15 +43,14 @@ I'm also skilled in 3D artistry, which I incorporate into unique designs when ne
 
 # <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> ESISBA Drive 📂  
 
-## About the Drive  
 The ESISBA Drive is a collaborative initiative where students contribute valuable resources for learning and growth.  
 
-## Contributors  
+- **Contributors**
+Dada Yacine · Amir Moncef Tighlit ·
 
-
-
-
-
+- **Links**
+[![Image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.dada@esi-sba.dz)
+[![Image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.dada@esi-sba.dz)
 
 
 
