@@ -21,27 +21,30 @@ I'm also skilled in 3D artistry, which I incorporate into unique designs when ne
 <table>
 <tr>
   <td valign="top" width="33%">
+    
   **Languages** 
     <div align="center">  
-      ![image](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-      ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-      ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+      <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
+      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     </div>
   </td>
   <td valign="top" width="33%">
+    
   **Frameworks & Libraries**
     <div align="center">  
-      ![image](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-      ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-      ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+      <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
+      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     </div>
   </td>
  <td valign="top" width="33%">
+   
   **Tools** 
     <div align="center">  
-      ![image](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-      ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-      ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+      <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
+      <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     </div>
   </td>
   <td valign="top" width="33%">
