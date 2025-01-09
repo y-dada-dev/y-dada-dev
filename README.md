@@ -35,7 +35,7 @@ Additionally, I possess a strong background in **3D artistry**, which I utilize 
 
 # <img src="gem.gif" alt="💎" width="28" height="28"> ESISBA Drive 
 
-The [ESISBA Google Drive](https://drive.google.com/drive/folders/16ZgJBq1FQ8EODrhYLVY_wBr776jVT4vR?usp=sharing) is a comprehensive collection of academic resources from multiple years, contributed by students. It includes TPs, TDs, exams, and course materials from a variety of subjects. While the [TPs](https://github.com/y-dada-dev?tab=repositories&q=esi-sba&type=&language=&sort=name) are hosted on GitHub for collaboration, the Google Drive contains a broader range of documents, including past exams and additional course resources.  
+The [ESI-SBA Google Drive](https://drive.google.com/drive/folders/16ZgJBq1FQ8EODrhYLVY_wBr776jVT4vR?usp=sharing) is a comprehensive collection of academic resources from multiple years, contributed by students. It includes TPs, TDs, exams, and course materials from a variety of subjects. While the [TPs](https://github.com/y-dada-dev?tab=repositories&q=esi-sba&type=&language=&sort=name) are hosted on GitHub for collaboration, the Google Drive contains a broader range of documents, including past exams and additional course resources.  
 
 This collection is constantly updated and provides valuable insights for students across different academic years. It’s a collaborative effort from many contributors, making it an essential resource for anyone studying at ESI-SBA. Special thanks goes to the contributors below: 
 
