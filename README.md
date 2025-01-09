@@ -31,12 +31,14 @@ I'm also skilled in 3D artistry, which I incorporate into unique designs when ne
 
 # <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> Featured Projects
 
-## 1. [Showcase Template Design](link-to-project)  
-## 2. [Showcase Template Design](link-to-project)  
-## 3. [Showcase Template Design](link-to-project) 
-## 5. [Showcase Template Design](link-to-project) 
-## 6. [Showcase Template Design](link-to-project) 
-## 7. [Showcase Template Design](link-to-project) 
+- [El Sabil](https://github.com/y-dada-dev/ESI-SBA-CSII-Multidisciplinary-Project-El-Sabil): A crypto trading bot framework
+- [ESIPATH](https://github.com/y-dada-dev/ESI-SBA-CSI-Multidisciplinary-Project-ESIPATH): A crypto trading bot framework
+- [Simply Green](https://github.com/y-dada-dev/ESI-SBA-CPI-Office-And-Web-Mini-Project): A crypto trading bot framework
+- [HelpMe](https://github.com/y-dada-dev/ESI-SBA-CPII-Multidisciplinary-Project-HelpMe): A crypto trading bot framework
+- [Beans Model Trainning](https://github.com/y-dada-dev/ESI-SBA-CSIII-Machine-Learning-and-Data-Mining-Mini-Project): A crypto trading bot framework
+- [Data Analysis](https://github.com/y-dada-dev/ESI-SBA-CSII-Data-Analysis-TP01): A crypto trading bot framework
+  
+
 
 
 # <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> ESISBA Drive 📂  
