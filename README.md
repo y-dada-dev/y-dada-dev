@@ -1,23 +1,14 @@
 <br>
 <p align="center">
-  <picture>
-    <!-- Light mode image -->
+  <picture style="display: inline-block; width: 60%;">
     <source srcset="Signature_Black.png" media="(prefers-color-scheme: light)">
-    <!-- Dark mode image -->
     <source srcset="Signature_White.png" media="(prefers-color-scheme: dark)">
-    <!-- Fallback image -->
-    <img src="Signature_White.png" style="width: 60%;" alt="Signature">
+    <img src="Signature_White.png" style="width: 100%;" alt="Signature">
   </picture>
 </p>
 <br><br>
 
 
-
-<br>
-<p align="center">
-  <img src="Signature_White.png" style="width: 60%;"/>
-</p>
-<br><br>
 
 
 
