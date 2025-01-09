@@ -39,9 +39,8 @@ The [ESISBA Google Drive](https://drive.google.com/drive/folders/16ZgJBq1FQ8EODr
 
 This collection is constantly updated and provides valuable insights for students across different academic years. It’s a collaborative effort from many contributors, making it an essential resource for anyone studying at ESISBA.
 
-**Contributors :**
-
-John Doe · **Jane Smith** · Michael Johnson · **Emily Davis** · David Brown · **Sarah Wilson** · James White · **Laura Thomas** · Robert Lee · **Jessica Harris** · William Clark · **Olivia Lewis** · Richard Hall · **Sophia Walker** · Daniel Allen · **Chloe Young** · Christopher King · **Madison Scott** · Matthew Adams · **Isabella Mitchell**
+**Contributors ❤️ :**  
+Dada Yacine · **Amir Moncef Tighlit** · Hani Mohammed Mahmmoudi · **Baha Daw Hocine** · Mouslim Saidi · **Anes Mobarki** · Sehili Chaima · **Abderraouf Bouakaz** · Lallouche Lokmane · **Moncef Ananni** · Illyes Alili · **Mechri Abdelchakour** · CHEBAB MOKHTARIA  
 
 &nbsp;&nbsp;
 
