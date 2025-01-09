@@ -39,7 +39,7 @@ The [ESISBA Google Drive](https://drive.google.com/drive/folders/16ZgJBq1FQ8EODr
 
 This collection is constantly updated and provides valuable insights for students across different academic years. It’s a collaborative effort from many contributors, making it an essential resource for anyone studying at ESI-SBA. Special thanks goes to the contributors below: 
 
-Dada Yacine · **Amir Moncef Tighlit** · Hani Mohammed Mahmmoudi · **Baha Daw Hocine** · Mouslim Saidi · **Anes Mobarki** · Sehili Chaima · **Abderraouf Bouakaz** · Lallouche Lokmane · **Moncef Ananni** · Illyes Alili · **Mechri Abdelchakour** · CHEBAB MOKHTARIA  
+Dada Yacine · **Amir Moncef Tighlit** · Hani Mohammed Mahmmoudi · **Baha Daw Hocine** · Mouslim Saidi · **Anes Mobarki** · Sehili Chaima · **Abderraouf Bouakaz** · Lallouche Lokmane · **Moncef Ananni** · Illyes Alili · **Mechri Abdelchakour** · CHEBAB MOKHTARIA · **Ilyas Benhammadi** · Amir Kadi · **Nassime Rayan Zorgani** · Moundir Abdelrahmen · **Karim Cherab** · Zakariya Baba · **Malki Abdelhamid**
 
 &nbsp;&nbsp;
 
