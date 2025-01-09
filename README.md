@@ -1,7 +1,8 @@
+<br>
 <p align="center">
   <img src="Signature.png" style="width: 60%;"/>
 </p>
-<br><br><br>
+<br><br>
 <table style="width: 100%; text-align: center;">
   <tr>
     <td style="vertical-align: top;" >
