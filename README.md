@@ -1,2 +1,2 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-dada-dev\&layout=compact&langs_count=30&hide=PLpgSQL,Tex,Hack,Shell,jupyter%20notebook)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-dada-dev\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=y-dada-dev\&rank_icon=github\&show=discussions_started,discussions_answered\&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y-dada-dev\&layout=compact&langs_count=12&hide=PLpgSQL,Tex,Hack,Shell,jupyter%20notebook)
