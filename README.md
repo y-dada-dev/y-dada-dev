@@ -39,9 +39,15 @@ The [ESI-SBA Google Drive](https://drive.google.com/drive/folders/16ZgJBq1FQ8EOD
 
 This collection is constantly updated and provides valuable insights for students across different academic years. It’s a collaborative effort from many contributors, making it an essential resource for anyone studying at ESI-SBA. Special thanks goes to the contributors below: 
 
-Dada Yacine · <span style="color:#63c77b"><strong>Amir Moncef Tighlit</strong></span> · Hani Mohammed Mahmmoudi · <span style="color:#63c77b"><strong>Baha Daw Hocine</strong></span> · Mouslim Saidi · <span style="color:#63c77b"><strong>Anes Mobarki</strong></span> · Sehili Chaima · <span style="color:#63c77b"><strong>Abderraouf Bouakaz</strong></span> · Lallouche Lokmane · <span style="color:#63c77b"><strong>Moncef Ananni</strong></span> · Illyes Alili · <span style="color:#63c77b"><strong>Mechri Abdelchakour</strong></span> · CHEBAB MOKHTARIA · <span style="color:#63c77b"><strong>Ilyas Benhammadi</strong></span> · Amir Kadi · <span style="color:#63c77b"><strong>Nassime Rayan Zorgani</strong></span> · Moundir Abdelrahmen · <span style="color:#63c77b"><strong>Karim Cherab</strong></span> · Zakariya Baba · <span style="color:#63c77b"><strong>Malki Abdelhamid</strong></span>
+&nbsp;
 
-&nbsp;&nbsp;
+$${\color{green}\mathbf{Amir \ Moncef \ Tighlit}} \space {\color{lightgreen}Hani \ Mohammed \ Mahmmoudi} \space {\color{green}\mathbf{Baha \ Daw \ Hocine}} \space {\color{lightgreen}Mouslim \ Saidi} \space {\color{green}\mathbf{Anes \ Mobarki}} \space {\color{lightgreen}Sehili \ Chaima} \space {\color{green}\mathbf{Abderraouf \ Bouakaz}}$$
+
+$${\color{lightgreen}Lallouche \ Lokmane} \space {\color{green}\mathbf{Moncef \ Ananni}} \space {\color{lightgreen}Illyes \ Alili} \space {\color{green}\mathbf{Mechri \ Abdelchakour}} \space {\color{lightgreen}CHEBAB \ MOKHTARIA} \space {\color{green}\mathbf{Ilyas \ Benhammadi}} \space {\color{lightgreen}Amir \ Kadi}$$
+
+$${\color{green}\mathbf{Nassime \ Rayan \ Zorgani}} \space {\color{lightgreen}Moundir \ Abdelrahmen} \space {\color{green}\mathbf{Karim \ Cherab}} \space {\color{lightgreen}Zakariya \ Baba} \space {\color{green}\mathbf{Malki \ Abdelhamid}}$$ 
+
+&nbsp;
 
 # <img src="gear.gif" alt="⚙" width="28" height="28"> Stats & Statistics
 
