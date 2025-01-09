@@ -49,16 +49,18 @@ I'm also skilled in 3D artistry, which I incorporate into unique designs when ne
   
 &nbsp;&nbsp;
 
-# <img src="gem.gif" alt="💎" width="28" height="28"> ESISBA Drive 📂  
+# <img src="gem.gif" alt="💎" width="28" height="28"> ESISBA Drive 
 
 The ESISBA Drive is a collaborative initiative where students contribute valuable resources for learning and growth.  
 
 [![Image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/y-dada-dev?tab=repositories&q=esi-sba&type=&language=&sort=name)
 [![Image](https://img.shields.io/badge/Google%20Drive-03C75A?style=for-the-badge&logo=logoColor=FFFFFF)](https://web.facebook.com/y.dada.me/)
 
+&nbsp;
+
 - **Contributors :**
 
-Dada Yacine · Amir Moncef Tighlit · Dada Yacine · Amir Moncef Tighlit · Dada Yacine · Amir Moncef Tighlit · Dada Yacine · Amir Moncef Tighlit · Dada Yacine · Amir Moncef Tighlit · Dada Yacine · Amir Moncef Tighlit · Dada Yacine · Amir Moncef Tighlit · Dada Yacine · Amir Moncef Tighlit · Dada Yacine · Amir Moncef Tighlit ·
+John Doe · Jane Smith · Michael Johnson · Emily Davis · David Brown · Sarah Wilson · James White · Laura Thomas · Robert Lee · Jessica Harris · William Clark · Olivia Lewis · Richard Hall · Sophia Walker · Daniel Allen · Chloe Young · Christopher King · Madison Scott · Matthew Adams · Isabella Mitchell
 
 &nbsp;&nbsp;
 
