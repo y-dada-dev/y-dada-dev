@@ -29,6 +29,7 @@ I'm also skilled in 3D artistry, which I incorporate into unique designs when ne
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     </div>
   </td>
+  
   <td valign="top" width="33%">
     
   **Frameworks & Libraries**
@@ -38,6 +39,7 @@ I'm also skilled in 3D artistry, which I incorporate into unique designs when ne
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     </div>
   </td>
+  
  <td valign="top" width="33%">
    
   **Tools** 
@@ -46,9 +48,6 @@ I'm also skilled in 3D artistry, which I incorporate into unique designs when ne
       <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     </div>
-  </td>
-  <td valign="top" width="33%">
-    
   </td>
 </tr>
 </table>  
