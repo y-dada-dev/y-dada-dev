@@ -6,15 +6,49 @@
     <img src="Signature_White.png"">
   </picture>
 </p>
-<br>
+<br><br>
 
 
 
-#
 
-Hello! i'm **Dada Yacine**, a 24-year-old passionate computer science student with a strong focus on **Front-End Web Development** and **UI/UX Design**.  
+# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> Welcome to my profile !
+
+I'm **Dada Yacine**, a 24-year-old passionate computer science student with a strong focus on **Front-End Web Development** and **UI/UX Design**.  
 I bring creativity and precision to the projects I work on, excelling in crafting engaging front-end experiences and user-friendly interfaces.  
 I'm also skilled in 3D artistry, which I incorporate into unique designs when needed.
+
+
+
+
+
+# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> My Tech-Stack & Skills
+
+## Languages   
+## Frameworks & Libraries  
+## Tools  
+
+
+
+# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> Featured Projects
+
+## 1. [Showcase Template Design](link-to-project)  
+## 2. [Showcase Template Design](link-to-project)  
+## 3. [Showcase Template Design](link-to-project) 
+## 5. [Showcase Template Design](link-to-project) 
+## 6. [Showcase Template Design](link-to-project) 
+## 7. [Showcase Template Design](link-to-project) 
+
+
+# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> ESISBA Drive 📂  
+
+## About the Drive  
+The ESISBA Drive is a collaborative initiative where students contribute valuable resources for learning and growth.  
+
+## Contributors  
+
+
+
+
 
 
 
