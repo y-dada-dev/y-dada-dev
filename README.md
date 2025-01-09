@@ -52,6 +52,17 @@
 
 
 
+
+
+<p align="center">
+  <picture>
+    <source srcset="github-user-contribution-black.svg" media="(prefers-color-scheme: light)">
+    <source srcset="github-user-contribution-white.svg" media="(prefers-color-scheme: dark)">
+    <img src="github-user-contribution-white.svg" >
+  </picture>
+</p>
+
+
 <picture>
   <img src="github-user-contribution-white.svg" />
 </picture>
