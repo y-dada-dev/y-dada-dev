@@ -85,7 +85,7 @@ Dada Yacine · **Amir Moncef Tighlit** · Hani Mohammed Mahmmoudi · **Baha Daw 
   <a href="https://codepen.io/dada-yacine">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen">
   </a>
-  <a href="https://www.fiverr.com/sellers/dada_yacine">
+  <a href="https://www.fiverr.com/s/6Y96b0N">
     <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr">
   </a>
   <a href="https://www.upwork.com/freelancers/~01102f0c2f9eb20d4a">
