@@ -3,7 +3,7 @@
   <picture>
     <source srcset="Signature_Black.png" media="(prefers-color-scheme: light)">
     <source srcset="Signature_White.png" media="(prefers-color-scheme: dark)">
-    <img src="Signature_White.png" style="width: 60%;" alt="Signature">
+    <img src="Signature_White.png"">
   </picture>
 </p>
 <br>
@@ -56,13 +56,8 @@
 
 <p align="center">
   <picture>
-    <source srcset="github-user-contribution-black.svg" media="(prefers-color-scheme: light)">
-    <source srcset="github-user-contribution-white.svg" media="(prefers-color-scheme: dark)">
-    <img src="github-user-contribution-white.svg" >
+    <source srcset="github-user-contribution-white.svg" media="(prefers-color-scheme: light)">
+    <source srcset="github-user-contribution-black.svg" media="(prefers-color-scheme: dark)">
+    <img src="github-user-contribution-black.svg" >
   </picture>
 </p>
-
-
-<picture>
-  <img src="github-user-contribution-white.svg" />
-</picture>
