@@ -1,12 +1,13 @@
 <br>
 <p align="center">
   <picture>
-    <source srcset="Signature_Black.png" media="(prefers-color-scheme: light)" style="width: 60%;">
-    <source srcset="Signature_White.png" media="(prefers-color-scheme: dark)" style="width: 60%;">
-    <img src="Signature_White.png" style="width: 60%;">
+    <source srcset="Signature_Black.png" media="(prefers-color-scheme: light)">
+    <source srcset="Signature_White.png" media="(prefers-color-scheme: dark)">
+    <img src="Signature_White.png" style="width: 60%;" alt="Signature">
   </picture>
 </p>
 <br><br>
+
 
 
 
