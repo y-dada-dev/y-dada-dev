@@ -8,7 +8,7 @@
 </p>
 <br><br>
 
-# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> Welcome to my profile !
+# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="28" height="28"></picture> Welcome to my profile !
 
 I'm **Dada Yacine**, a 24-year-old passionate computer science student with a strong focus on **Front-End Web Development** and **UI/UX Design**.  
 I bring creativity and precision to the projects I work on, excelling in crafting engaging front-end experiences and user-friendly interfaces.  
@@ -16,13 +16,13 @@ I'm also skilled in 3D artistry, which I incorporate into unique designs when ne
 
 &nbsp;&nbsp;
 
-# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> My Tech-Stack & Skills
+# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="28" height="28"></picture> My Tech-Stack & Skills
 
 Test
 
 &nbsp;&nbsp;
 
-# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> Featured Projects
+# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="28" height="28"></picture> Featured Projects
 
 - [El Sabil](https://github.com/y-dada-dev/ESI-SBA-CSII-Multidisciplinary-Project-El-Sabil): A crypto trading bot framework
 - [ESIPATH](https://github.com/y-dada-dev/ESI-SBA-CSI-Multidisciplinary-Project-ESIPATH): A crypto trading bot framework
@@ -33,7 +33,7 @@ Test
   
 &nbsp;&nbsp;
 
-# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> ESISBA Drive 📂  
+# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="28" height="28"></picture> ESISBA Drive 📂  
 
 The ESISBA Drive is a collaborative initiative where students contribute valuable resources for learning and growth.  
 
@@ -46,7 +46,7 @@ Dada Yacine · Amir Moncef Tighlit ·
 
 &nbsp;&nbsp;
 
-# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture> Stats & Statistics
+# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="28" height="28"></picture>> Stats & Statistics
 
 <table style="width: 100%; text-align: center;">
   <tr>
