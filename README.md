@@ -59,12 +59,6 @@
 
 
 
-
-
-
-
-
-
 <picture>
   <img src="github-user-contribution.svg" />
 </picture>
