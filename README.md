@@ -13,9 +13,9 @@
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/y-dada-dev/ESI-SBA-CSII-Multidisciplinary-Project-El-Sabil">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-dada-dev&repo=ESI-SBA-CSII-Multidisciplinary-Project-El-Sabil&theme=dark&bg_color=00000000&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/y-dada-dev/ESI-SBA-CSI-Multidisciplinary-Project-ESIPATH">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=y-dada-dev&repo=ESI-SBA-CSI-Multidisciplinary-Project-ESIPATH&theme=dark&bg_color=00000000&hide_border=true" />
 </a>
