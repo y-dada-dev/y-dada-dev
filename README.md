@@ -8,7 +8,7 @@
 </p>
 <br><br>
 
-# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="28" height="28"></picture> Welcome to my profile !
+# <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="26" height="26"></picture> Welcome to my profile !
 
 I'm **Dada Yacine**, a 24-year-old passionate computer science student with a strong focus on **Front-End Web Development** and **UI/UX Design**.  
 I bring creativity and precision to the projects I work on, excelling in crafting engaging front-end experiences and user-friendly interfaces.  
