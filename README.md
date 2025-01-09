@@ -47,8 +47,6 @@ $${\color{green}\mathbf{Abderraouf \ Bouakaz}} \space {\color{lightgreen}Lallouc
 
 $${\color{green}\mathbf{Ilyas \ Benhammadi}} \space {\color{lightgreen}Amir \ Kadi} \space {\color{green}\mathbf{Nassime \ Rayan \ Zorgani}} \space {\color{lightgreen}Moundir \ Abdelrahmen} \space {\color{green}\mathbf{Karim \ Cherab}} \space {\color{lightgreen}Zakariya \ Baba}$$
 
-$${\color{green}\mathbf{Malki \ Abdelhamid}}$$
-
 
 &nbsp;
 
