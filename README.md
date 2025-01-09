@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Signature.png" style="width: 60%; margin-bottom: 40px"/>
+  <img src="Signature.png" style="width: 60%; padding-bottom: 40px"/>
 </p>
 
 
