@@ -1,4 +1,4 @@
-<img src="Banner.png" />
+<img src="Signature.png" />
 
 <table style="width: 100%; text-align: center;">
   <tr>
