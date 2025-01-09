@@ -41,7 +41,7 @@ This collection is constantly updated and provides valuable insights for student
 
 &nbsp;
 
-> [!TIP]
+> [!NOTE]
 > Zakariya Baba · **Amir Moncef Tighlit** · Hani Mohammed Mahmmoudi · **Baha Daw Hocine** · Mouslim Saidi · **Anes Mobarki** 
 > Sehili Chaima · **Abderraouf Bouakaz** · Lallouche Lokmane · **Moncef Ananni** · Illyes Alili · **Mechri Abdelchakour** 
 > CHEBAB MOKHTARIA · **Ilyas Benhammadi** · Amir Kadi · **Nassime Rayan Zorgani** · Moundir Abdelrahmen · **Karim Cherab** 
