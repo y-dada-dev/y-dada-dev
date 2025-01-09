@@ -53,5 +53,5 @@
 
 
 <picture>
-  <img src="github-user-contribution.svg" />
+  <img src="github-user-contribution-white.svg" />
 </picture>
