@@ -39,6 +39,8 @@ I'm also skilled in 3D artistry, which I incorporate into unique designs when ne
 </div>
 </td><td valign="top" width="33%">
 
+</td></tr></table>  
+
 &nbsp;&nbsp;
 
 # <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="28" height="28"></picture> Featured Projects
