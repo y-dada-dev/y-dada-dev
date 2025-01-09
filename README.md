@@ -40,18 +40,19 @@ I'm also skilled in 3D artistry, which I incorporate into unique designs when ne
 
 # <img src="bulp.gif" alt="💡" width="28" height="28"> Featured Projects
 
-- [El Sabil](https://github.com/y-dada-dev/ESI-SBA-CSII-Multidisciplinary-Project-El-Sabil): El Sabil is a web-based private school management platform designed to streamline administrative tasks, student performance tracking, and communication between educators and parents. It offers features like grade management, attendance tracking, and financial reports.
-
-- [ESIPATH](https://github.com/y-dada-dev/ESI-SBA-CSI-Multidisciplinary-Project-ESIPATH): ESIPATH is a web-based platform that helps manage final studies projects for students. It allows students and supervisors to track project progress, upload documents, and ensure deadlines are met, enhancing project management for academic work.
-
 - [Simply Green](https://github.com/y-dada-dev/ESI-SBA-CPI-Office-And-Web-Mini-Project): Simply Green is my first-ever website project, aimed at raising awareness about environmental protection, wildlife conservation, and sustainable practices. The platform provides information, resources, and ways for individuals to get involved in preserving nature and protecting animal habitats.
 
 - [HelpMe](https://github.com/y-dada-dev/ESI-SBA-CPII-Multidisciplinary-Project-HelpMe): HelpMe is a web-based donation platform aimed at supporting charitable organizations and individuals in need. It connects donors with causes and facilitates secure online contributions for various charitable projects and initiatives.
-  
-- [Beans Model Trainning](https://github.com/y-dada-dev/ESI-SBA-CSIII-Machine-Learning-and-Data-Mining-Mini-Project): Beans Model Training is an AI-powered model designed to classify different types of beans. It uses machine learning techniques to recognize and categorize bean varieties based on images, streamlining the process for agriculture and food industries.
-- 
+
+- [ESIPATH](https://github.com/y-dada-dev/ESI-SBA-CSI-Multidisciplinary-Project-ESIPATH): ESIPATH is a web-based platform that helps manage final studies projects for students. It allows students and supervisors to track project progress, upload documents, and ensure deadlines are met, enhancing project management for academic work.
+
 - [Data Analysis](https://github.com/y-dada-dev/ESI-SBA-CSII-Data-Analysis-TP01): This project explores the relationship between children's environmental factors and their academic performance. It analyzes various data points such as living conditions, social influences, and schooling factors to understand their impact on school grades.
-  
+
+- [El Sabil](https://github.com/y-dada-dev/ESI-SBA-CSII-Multidisciplinary-Project-El-Sabil): El Sabil is a web-based private school management platform designed to streamline administrative tasks, student performance tracking, and communication between educators and parents. It offers features like grade management, attendance tracking, and financial reports.
+
+- [Beans Model Trainning](https://github.com/y-dada-dev/ESI-SBA-CSIII-Machine-Learning-and-Data-Mining-Mini-Project): Beans Model Training is an AI-powered model designed to classify different types of beans. It uses machine learning techniques to recognize and categorize bean varieties based on images, streamlining the process for agriculture and food industries.
+
+
 &nbsp;&nbsp;
 
 # <img src="gem.gif" alt="💎" width="28" height="28"> ESISBA Drive 
