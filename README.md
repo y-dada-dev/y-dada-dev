@@ -53,10 +53,10 @@ This collection is constantly updated and provides valuable insights for student
 <table style="width: 100%; text-align: center;">
   <tr>
     <td style="vertical-align: top;" >
-      &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=y-dada-dev&rank_icon=github&show=discussions_started,discussions_answered,prs_merged&include_all_commits=true&show_icons=true&include_all_commits=true&hide=contribs&theme=default&bg_color=00000000&hide_border=true&ring_color=63c77b&title_color=63c77b&icon_color=63c77b"/>&nbsp;
+      &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=y-dada-dev&rank_icon=github&show=discussions_started,discussions_answered,prs_merged&include_all_commits=true&show_icons=true&include_all_commits=true&hide=contribs&theme=default&bg_color=00000000&hide_border=true&ring_color=63c77b&title_color=63c77b&icon_color=63c77b"/>
     </td>
     <td style="vertical-align: top;">
-      &nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-dada-dev&layout=compact&langs_count=12&hide=PLpgSQL,Tex,Hack,Shell,jupyter%20notebook,Less&theme=default&bg_color=00000000&hide_border=true&title_color=63c77b&icon_color=63c77b"/>&nbsp;
+      &nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-dada-dev&layout=compact&langs_count=12&hide=PLpgSQL,Tex,Hack,Shell,jupyter%20notebook,Less&theme=default&bg_color=00000000&hide_border=true&title_color=63c77b&icon_color=63c77b"/>&nbsp;
     </td>
   </tr>
 </table>
