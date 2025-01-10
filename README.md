@@ -64,7 +64,7 @@ This collection is constantly updated and provides valuable insights for student
 
 <p align="center">
   <picture>
-    <img src="streak.svg" >
+    <img src="streak800edited.svg" >
   </picture>
 </p>
 
