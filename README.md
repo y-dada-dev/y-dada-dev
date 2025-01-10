@@ -61,6 +61,17 @@ This collection is constantly updated and provides valuable insights for student
   </tr>
 </table>
 
+
+<p align="center">
+  <picture>
+    <img src="streak.svg" >
+  </picture>
+</p>
+
+
+
+
+
 <p align="center">
   <picture>
     <source srcset="github-user-contribution-white.svg" media="(prefers-color-scheme: light)">
