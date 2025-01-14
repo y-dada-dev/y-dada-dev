@@ -91,7 +91,7 @@ This collection is constantly updated and provides valuable insights for student
   <a href="https://codepen.io/dada-yacine">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen">
   </a>
-  <a href="https://www.fiverr.com/s/6Y96b0N">
+  <a href="https://www.fiverr.com/dada_yacine">
     <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr">
   </a>
   <a href="https://www.upwork.com/freelancers/~01102f0c2f9eb20d4a">
