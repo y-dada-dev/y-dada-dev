@@ -42,7 +42,7 @@ This collection is constantly updated and provides valuable insights for student
 &nbsp;
 
 > [!NOTE]
-> Zakariya Baba · **Amir Moncef Tighlit** · Hani Mohammed Mahmmoudi · **Baha Daw Hocine** · Mouslim Saidi · **Anes Mobarki** · 
+> Zakariya Baba · **Amir Moncef Tighlit** · Hani Mohammed Mahmmoudi · **Baha Hocine Dou** · Mouslim Saidi · **Anes Mobarki** · 
 > Sehili Chaima · **Abderraouf Bouakaz** · Lallouche Lokmane · **Moncef Ananni** · Illyes Alili · **Mechri Abdelchakour** · 
 > Chebab Mokhtaria · **Ilyas Benhammadi** · Amir Kadi Khaldi · **Nassime Rayan Zorgani** · Abderrahman Moundir · **Karim Cherab** ·
 > Meddad Merouane · **Hadil Nahoui** · Larouci Ghezala · **Raouf Bouakaz** · Isleme Bouchou · **Yassine Hadj Brahime**
